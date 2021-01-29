@@ -1,7 +1,9 @@
-Hi, I'm [Asier Marqués](https://asiermarques.com). This is an auto-generated website where you can find learning resources and notes that I'm registering in [this repository](https://github.com/asiermarques/learning-resources-and-notes)
+# Hi, I'm [Asier Marqués](https://asiermarques.com). You can find here my professional and personal learning resources lists and notes
 
-Resource list
+This website is generated automatically from [this repository](https://github.com/asiermarques/learning-resources-and-notes)
 
-## Spanish
+## Resource list
+
+### Spanish
 
 * Home Electricity: [Recursos sobre mantenimiento de la electricidad en el hogar](/es/electricidad-hogar.md)
