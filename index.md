@@ -6,4 +6,4 @@ This website is generated automatically from [this repository](https://github.co
 
 ### Spanish
 
-* Home Electricity: [Recursos sobre mantenimiento de la electricidad en el hogar](/es/electricidad-hogar.md)
+* [Electricidad básica para el hogar](/es/electricidad-hogar.md)
