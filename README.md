@@ -1,7 +1,3 @@
-# Notes
+# [Asier Marqués](https://asiermarques.com): Notes
 
-Professional and personal notes about different topics which are interesting to me
-
-## Technology
-
-* [Scala](tech/Scala.md)
+Professional and personal learning resources and notes about different topics that are interesting to me
