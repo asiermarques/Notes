@@ -1,9 +1,9 @@
 ## Cursos online
 
 Udemy: [Curso práctico de instalaciones electricas en viviendas](https://www.udemy.com/course/curso-practico-de-instalaciones-electricas-en-viviendas/)  
-Estado: no visto 
-Feedback: ???
-
+Estado: no visto  
+Feedback: ???  
+  
 ## Libros
 
 1996 [Electricidad en casa de George Davidson](https://www.amazon.es/Electricidad-casa-Aprende-T%C3%BA-Solo/dp/8436803051/ref=sr_1_4)  
