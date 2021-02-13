@@ -9,4 +9,4 @@ This website is generated automatically from [this repository](https://github.co
 
 ### Spanish
 
-* [Electricidad básica para el hogar](/es/electricidad-hogar.md)
+* [Electricidad básica para el hogar](/es-electricidad-hogar.md)
