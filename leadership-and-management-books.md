@@ -20,6 +20,8 @@ This is a curated list of books about engineering management
 - Team Topologies: Organizing Business and Technology Teams for Fast Flow by Matthew Skelton and Manuel Pais
 - The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni
 - Elastic Leadership: Growing self-organizing teams by Roy Osherove
+- Debugging Teams: Better Productivity Through Collaboration By Brian W. Fitzpatrick and Ben Collins-Sussman
+- Managing Teams Congruently by Gerald M. Weinberg
 - Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink
 
 
