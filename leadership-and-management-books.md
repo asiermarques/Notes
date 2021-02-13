@@ -1,6 +1,8 @@
 # Leadership and Management books
 
-> I'm using GoodReads to save [a list of managemente books](https://www.goodreads.com/review/list/11992975?shelf=it-management) that I discover and find internesting
+This is a curated list of books about engineering management
+
+> I'm using GoodReads to save and maintain [a list of managemente books](https://www.goodreads.com/review/list/11992975?shelf=it-management) that I discover and find internesting
 
 ## Must-reads
 
@@ -14,6 +16,7 @@
 ## Teams and culture
 
 - Dynamic Reteaming: The Art and Wisdom of Changing Teams by Heidi Helfand
+- Team Topologies: Organizing Business and Technology Teams for Fast Flow by Matthew Skelton and Manuel Pais
 - The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni
 - Elastic Leadership: Growing self-organizing teams by Roy Osherove
 
@@ -29,4 +32,5 @@
 
 - Peopleware: Productive Projects and Teams by Tom DeMarco and Timothy R. Lister
 - The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt
+  - The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr and George Spafford
 
