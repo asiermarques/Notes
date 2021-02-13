@@ -1,4 +1,4 @@
-# Hi, I'm [Asier Marqués](https://asiermarques.com). You can find here my professional and personal learning resources lists and notes
+# Hi, I'm [Asier](https://asiermarques.com). You can find here my professional and personal learning resources lists and notes
 
 This website is generated automatically from [this repository](https://github.com/asiermarques/learning-resources-and-notes)
 
