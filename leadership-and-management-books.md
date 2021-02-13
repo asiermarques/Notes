@@ -4,21 +4,29 @@
 
 ## Must-reads
 
-### The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change by Camille Fournier
-
-### Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams by Mickey W. Mantle and Ron Lichty
-
-### Scaling Teams: Strategies for Building Successful Teams and Organizations by David Loftesness and Alexander Grosse
-
-### An Elegant Puzzle: Systems of Engineering Management by Will Larson
+- The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change by Camille Fournier
+- Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams by Mickey W. Mantle and Ron Lichty
+- Scaling Teams: Strategies for Building Successful Teams and Organizations by David Loftesness and Alexander Grosse
+- An Elegant Puzzle: Systems of Engineering Management by Will Larson
+- Resilient Management by Lara Hogan
 
 
-## On Communication
+## Teams and culture
 
-### Radical Candor: Be a Kickass Boss Without Losing Your Humanity by Kim Malone Scott
+- Dynamic Reteaming: The Art and Wisdom of Changing Teams by Heidi Helfand
+- The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni
+- Elastic Leadership: Growing self-organizing teams by Roy Osherove
+
+
+## On Communication and influence development
+
+- Radical Candor: Be a Kickass Boss Without Losing Your Humanity by Kim Malone Scott
+- Difficult Conversations: How to Discuss What Matters Most by Douglas Stone, Bruce Patton and Sheila Heen
+- Never Split the Difference by Chris Voss
 
 
 ## Classics
 
-### Peopleware: Productive Projects and Teams by Tom DeMarco and Timothy R. Lister
+- Peopleware: Productive Projects and Teams by Tom DeMarco and Timothy R. Lister
+- The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt
 
