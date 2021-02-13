@@ -2,7 +2,7 @@
 
 This is a curated list of books about engineering management
 
-> I'm using GoodReads to save and maintain [a list of managemente books](https://www.goodreads.com/review/list/11992975?shelf=it-management) that I'm continuously discovering and find interesting. 
+> I'm using GoodReads to save and maintain [a list of managemente books](https://www.goodreads.com/review/list/11992975?shelf=it-management) that I'm continuously discovering and I found interesting. 
 
 
 ## Must-reads
