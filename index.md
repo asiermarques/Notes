@@ -5,6 +5,7 @@ This website is generated automatically from [this repository](https://github.co
 ## Resource list
 
 * [Leadership and Management books](leadership-and-management-books.md)
+* [System Thinking resources](system-thinking-resources.md)
 
 ### Spanish
 
