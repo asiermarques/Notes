@@ -19,6 +19,7 @@ This is a curated list of books about engineering management
 - Team Topologies: Organizing Business and Technology Teams for Fast Flow by Matthew Skelton and Manuel Pais
 - The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni
 - Elastic Leadership: Growing self-organizing teams by Roy Osherove
+- Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink
 
 
 ## On Communication and influence development
@@ -33,4 +34,6 @@ This is a curated list of books about engineering management
 - Peopleware: Productive Projects and Teams by Tom DeMarco and Timothy R. Lister
 - The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt
   - The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr and George Spafford
+  - The Unicorn Project by Gene Kim
+- The Mythical Man-Month: Essays on Software Engineering by Frederick P. Brooks Jr.
 
