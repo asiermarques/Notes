@@ -1,4 +1,4 @@
-# Notes of the "Thinking in Systems: A Primer" book
+# "Thinking in Systems: A Primer" book notes
 
 
 ## Highlights
